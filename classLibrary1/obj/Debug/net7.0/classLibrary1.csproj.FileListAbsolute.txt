@@ -1,0 +1,12 @@
+/home/arteN01-060/Documents/c#r3yllensantamaria/sln-csharp-poo1/classLibrary1/bin/Debug/net7.0/classLibrary1.deps.json
+/home/arteN01-060/Documents/c#r3yllensantamaria/sln-csharp-poo1/classLibrary1/bin/Debug/net7.0/classLibrary1.dll
+/home/arteN01-060/Documents/c#r3yllensantamaria/sln-csharp-poo1/classLibrary1/bin/Debug/net7.0/classLibrary1.pdb
+/home/arteN01-060/Documents/c#r3yllensantamaria/sln-csharp-poo1/classLibrary1/obj/Debug/net7.0/classLibrary1.csproj.AssemblyReference.cache
+/home/arteN01-060/Documents/c#r3yllensantamaria/sln-csharp-poo1/classLibrary1/obj/Debug/net7.0/classLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+/home/arteN01-060/Documents/c#r3yllensantamaria/sln-csharp-poo1/classLibrary1/obj/Debug/net7.0/classLibrary1.AssemblyInfoInputs.cache
+/home/arteN01-060/Documents/c#r3yllensantamaria/sln-csharp-poo1/classLibrary1/obj/Debug/net7.0/classLibrary1.AssemblyInfo.cs
+/home/arteN01-060/Documents/c#r3yllensantamaria/sln-csharp-poo1/classLibrary1/obj/Debug/net7.0/classLibrary1.csproj.CoreCompileInputs.cache
+/home/arteN01-060/Documents/c#r3yllensantamaria/sln-csharp-poo1/classLibrary1/obj/Debug/net7.0/classLibrary1.dll
+/home/arteN01-060/Documents/c#r3yllensantamaria/sln-csharp-poo1/classLibrary1/obj/Debug/net7.0/refint/classLibrary1.dll
+/home/arteN01-060/Documents/c#r3yllensantamaria/sln-csharp-poo1/classLibrary1/obj/Debug/net7.0/classLibrary1.pdb
+/home/arteN01-060/Documents/c#r3yllensantamaria/sln-csharp-poo1/classLibrary1/obj/Debug/net7.0/ref/classLibrary1.dll

@@ -1,0 +1,89 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "classLibrary1/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/classLibrary1.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/classLibrary1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "classLibrary1/1.0.0": {
+      "type": "project",
+      "path": "../classLibrary1/classLibrary1.csproj",
+      "msbuildProject": "../classLibrary1/classLibrary1.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "classLibrary1 >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/home/arteN01-060/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/arteN01-060/Documents/c#r3yllensantamaria/sln-csharp-poo1/classExample/classExample.csproj",
+      "projectName": "classExample",
+      "projectPath": "/home/arteN01-060/Documents/c#r3yllensantamaria/sln-csharp-poo1/classExample/classExample.csproj",
+      "packagesPath": "/home/arteN01-060/.nuget/packages/",
+      "outputPath": "/home/arteN01-060/Documents/c#r3yllensantamaria/sln-csharp-poo1/classExample/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/arteN01-060/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "/home/arteN01-060/Documents/c#r3yllensantamaria/sln-csharp-poo1/classLibrary1/classLibrary1.csproj": {
+              "projectPath": "/home/arteN01-060/Documents/c#r3yllensantamaria/sln-csharp-poo1/classLibrary1/classLibrary1.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.109/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
